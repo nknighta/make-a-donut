@@ -1,4 +1,4 @@
-# nake a donut.
+# make a donut.
 
 using c and. gnu compiler colection.
 
